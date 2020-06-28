@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11416990981",
+    "firebase_url": "https://grabacondemo-45f61.firebaseio.com",
+    "project_id": "grabacondemo-45f61",
+    "storage_bucket": "grabacondemo-45f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11416990981:android:54dc37ae75a71f38ecf36c",
+        "android_client_info": {
+          "package_name": "com.demo.grabacondemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11416990981-t3h7p81ojgq12chlkanoq5j3femuqthk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.grabacondemo",
+            "certificate_hash": "aa43ca0aa0842e6227c7091859e257aa7912c5b5"
+          }
+        },
+        {
+          "client_id": "11416990981-inm25rc2n4pk5b3504l5m9nopmblv9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yomStQRmi9B6JcdBDLWrX9EJE5Wr4mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11416990981-inm25rc2n4pk5b3504l5m9nopmblv9nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

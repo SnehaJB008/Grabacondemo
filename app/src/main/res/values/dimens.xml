@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="common_8_dp">8dp</dimen>
+    <dimen name="font_24_sp">24sp</dimen>
+    <dimen name="toolbar_profile_width">90dp</dimen>
+    <dimen name="ic_plus_width">32dp</dimen>
+    <dimen name="image_95_dp">95dp</dimen>
+    <dimen name="image_height">90dp</dimen>
+    <dimen name="margin_large">26dp</dimen>
+    <dimen name="margin_extra_large">56dp</dimen>
+    <dimen name="layout_top_margin">10dp</dimen>
+
+</resources>
